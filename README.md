@@ -26,8 +26,8 @@ npm start
 
 ## Deploy
 
-[Link do projeto](#)
+[Link do projeto](https://task-manager-ji8cncxo6-codebybeas-projects.vercel.app)
 
 ## Autor
 
-Desenvolvido por [@beatriz](https://github.com/seu-usuario)
+Desenvolvido por [@codebybea](https://github.com/codebybea)
