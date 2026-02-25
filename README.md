@@ -1,4 +1,4 @@
-# React JS
+# Tasks
 
 Projeto desenvolvido para aprender e praticar conceitos de **React**.
 
